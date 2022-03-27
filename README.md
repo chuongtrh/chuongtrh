@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 Hola, I'm Chuong Tran 👋
 
-I'm a Software Engineer specialised in mobile and backend development for complex scalable web app. 
+I'm a Software Engineer specialised in mobile/web and backend development for complex scalable web app.
 
-![ChuongTran's github stats](https://github-readme-stats.vercel.app/api?username=chuongtrh&show_icons=true&theme=dracula&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuongtrh&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+⚡ Fun fact: learn++
