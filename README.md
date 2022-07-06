@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 Hola, I'm Chuong Tran 👋
 
-I'm a Software Engineer specialised in mobile/web and backend development for complex scalable web app.
-
 ⚡ Fun fact: learn++
