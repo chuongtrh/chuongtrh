@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 Hola, I'm Chuong Tran 👋
 
 ⚡ Fun fact: learn++
+<br/>
+<br/>
+
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5589964)](https://stackoverflow.com/users/5589964/chuongtran)
