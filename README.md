@@ -20,6 +20,5 @@ Hola, I'm Chuong Tran 👋
 📫 How to reach me: chuongtrh@gmail.com
 <br/>
 <br/>
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5589964)](https://stackoverflow.com/users/5589964/chuongtran)
 
 <a href="https://github.com/chuongtrh"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=chuongtrh&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuongtrh&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
