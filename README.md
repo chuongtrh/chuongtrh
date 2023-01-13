@@ -21,4 +21,6 @@ Hola, I'm Chuong Tran 👋
 <br/>
 <br/>
 
-<a href="https://github.com/chuongtrh"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=chuongtrh&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuongtrh&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
