@@ -17,10 +17,11 @@ Hola, I'm Chuong Tran 👋
 
 ⚡ Fun fact: learn++
 <br/>
+👨‍💻 Blogs: [chuongtran.com](https://chuongtran.com/)
+<br/>
 📫 How to reach me: chuongtrh@gmail.com
 <br/>
-<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
+
