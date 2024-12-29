@@ -25,7 +25,8 @@ Hola, I'm Chuong Tran 👋
 -  [RunningNoteAI](https://running-note-ai.web.app/) Analyze your running activity automatically on Strava. Powered by AI 🤖
 -  [Readme viewer](https://docs-chuongtrh.vercel.app) README viewer website makes it easy to view README files of GitHub projects by providing a convenient interface and useful features.
 -  [PokPok App](https://pokpok-app.web.app) A good tool for managing poker games can help keep track of players. With the right tool, a small poker clan can enjoy a smooth and organized gaming experience.
--  [Crypto DCA Calculator](https://cryptosaving.app) A small tool Crypto DCA Calculator
-  
+-  [Crypto DCA Calculator](https://cryptosaving.app) A small tool Crypto DCA Calculator  
 <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
