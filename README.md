@@ -22,9 +22,9 @@ Hola, I'm Chuong Tran 👋
 📫 How to reach me: chuongtrh@gmail.com
 <br/>
 🚀 Side projects:
--  [Strava Collage]([https://running-note-ai.web.app/](https://chromewebstore.google.com/detail/ekcfaakmcialmjklbfadnbohfhgmgepf?utm_source=gh-profile)) Turn your Strava activities into vibrant digital artworks
+-  [Strava Collage](https://chromewebstore.google.com/detail/ekcfaakmcialmjklbfadnbohfhgmgepf?utm_source=gh-profile) Turn your Strava activities into vibrant digital artworks
 -  [RunningNoteAI](https://running-note-ai.web.app/) Analyze your running activity automatically on Strava. Powered by AI 🤖
--  [PokPok App](https://pokpok-app.web.app) A good tool for managing poker games can help keep track of players. With the right tool, a small poker clan can enjoy a smooth and organized gaming experience.
+-  [PokPok App](https://pokpok-app.web.app) A good tool for managing poker games can help keep track of players
 -  [Crypto DCA Calculator](https://cryptosaving.app) A small tool Crypto DCA Calculator  
 <br/>
 
