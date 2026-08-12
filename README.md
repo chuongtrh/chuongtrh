@@ -1,32 +1,18 @@
-<!--
-**chuongtrh/chuongtrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chuong Tran 👋
 
-Here are some ideas to get you started:
+Software developer from Vietnam, working mainly with Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Blog](https://chuongtran.com/) · [Email](mailto:chuongtrh@gmail.com)
 
-Hola, I'm Chuong Tran 👋
+## Public projects
 
-⚡ Fun fact: learn++
-<br/>
-👨‍💻 Blogs: [chuongtran.com](https://chuongtran.com/)
-<br/>
-📫 How to reach me: chuongtrh@gmail.com
-<br/>
-🚀 Side projects:
--  [Strava Collage](https://chromewebstore.google.com/detail/ekcfaakmcialmjklbfadnbohfhgmgepf?utm_source=gh-profile) Turn your Strava activities into vibrant digital artworks
--  [RunningNoteAI](https://running-note-ai.web.app/) Analyze your running activity automatically on Strava. Powered by AI 🤖
--  [PokPok App](https://pokpok-app.web.app) A good tool for managing poker games can help keep track of players
--  [Crypto DCA Calculator](https://cryptosaving.app) A small tool Crypto DCA Calculator  
-<br/>
+- [**html_to_pdf**](https://github.com/chuongtrh/html_to_pdf) — Generate PDF invoices from HTML with Puppeteer and Handlebars.
+- [**fastify-list-routes**](https://github.com/chuongtrh/fastify-list-routes) — List registered routes in a Fastify application.
+- [**Strava Kudo All**](https://github.com/chuongtrh/strava_kudo) — Give kudos to visible Strava activities from one button.
+- [**Mizuki Runners**](https://github.com/chuongtrh/mizuki_runners) — A Vietnamese knowledge base for a local running community.
+- [**PokPok App**](https://github.com/chuongtrh/pokpok-app) — A small application for managing poker games.
+- [**CoinMarketCap Widget**](https://github.com/chuongtrh/coin_market_cap_scriptable) — A crypto market widget for Scriptable.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuongtrh&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chuongtrh&theme=default)
+## Stack
+
+Go · PostgreSQL · Redis · Docker · JavaScript · TypeScript
